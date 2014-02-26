@@ -1,0 +1,25 @@
+Creating New Repository for New Project(New-Repo):-
+
+1]mkdir New-Repo and add a file test.txt on local m/c
+
+2]cd New-Repo
+
+3]touch README.md
+
+4]git init
+
+5]git add README.md
+
+6]git commit -m "first commit"
+
+7]git remote add origin https://github.com/amolplay/New-Repo.git
+
+8]git push -u origin master
+
+
+==========
+Push an existing repository from the command line
+
+git remote add origin https://github.com/amolplay/New-Repo.git
+
+git push -u origin master
