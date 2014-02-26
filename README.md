@@ -1,6 +1,5 @@
 Creating New Repository for New Project(New-Repo):-
 
-
 1]mkdir New-Repo and add a file test.txt on local m/c
 
 2]cd New-Repo
@@ -30,4 +29,4 @@ Push an existing repository from the command line
 
 git remote add origin https://github.com/amolplay/New-Repo.git
 
-git push -u origin master
+git push origin master
