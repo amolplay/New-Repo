@@ -1,5 +1,5 @@
 ======
-New Branch test1 Activated:-
+#Branch feature/ticket/updates Activated:-
 
 When we checkout test1 branch on local and push content to origin using cmd :- git push origin master then no content added into Git instead that changes only added to test1 branch
 
