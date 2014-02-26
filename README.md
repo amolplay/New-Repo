@@ -5,9 +5,9 @@ This is first repository for testing....
 
 
 
-atharva@atharva:git clone https://github.com/amolplay/First-Repository.git
+$ git clone https://github.com/amolplay/First-Repository.git
 
-atharva@atharva:~/First-Repository$ git pull origin master
+$ ~/First-Repository$ git pull origin master
 
 remote: Counting objects: 5, done.
 remote: Compressing objects: 100% (2/2), done.
