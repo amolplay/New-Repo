@@ -1,7 +1,7 @@
 First-Repository
 ================
-This is my first repository for testing....
+This is first repository for testing....
 
 
 
-Test first repository
+
