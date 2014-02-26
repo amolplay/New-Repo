@@ -1,4 +1,4 @@
-#First-Repository
+First-Repository
 ================
 First repository for testing....
 
@@ -10,12 +10,12 @@ Git :-
 
 
 ========
-##Cloning an Existing Repository which is created already on Git manually:-
+Cloning an Existing Repository which is created already on Git manually:-
 
 $ git clone https://github.com/amolplay/First-Repository.git
 $cd First-Repository
 $ ~/First-Repository$ git pull origin master   
-#above command merged all the updated data to Current working directory
+above command merged all the updated data to Current working directory
 
 
 remote: Counting objects: 5, done.
