@@ -1,4 +1,4 @@
 master branch test file created and testing for rebase 
-file changed1
+file changed
 file testeing for git Debug coomand
 Submodule tested
