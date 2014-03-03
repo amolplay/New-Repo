@@ -1,0 +1,6 @@
+File1 created
+Fil1 appended
+File1 -am used
+file 1 -amend testing
+file1 tested for Subtree
+git pull cmd testing

@@ -1,0 +1,3 @@
+[submodule "New-Repo"]
+	path = New-Repo
+	url = https://github.com/amolplay/New-Repo.git
